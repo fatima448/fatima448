@@ -11,8 +11,8 @@ and exploring Artificial Intelligence and Machine Learning through hands-on lear
 
 ### 🔧 Technical Skills
 - **Languages:** Java, C  
-- **Web:** HTML, CSS  
-- **Backend:** PHP, FastAPI (beginner)  
+- **Web:** HTML, CSS , JavaScript, React 
+- **Backend:** FastAPI  
 - **Databases:** MySQL  
 - **AI / ML:** Fundamentals of Machine Learning, Data Analysis   
 - **Tools:** Git, GitHub, VS Code  
