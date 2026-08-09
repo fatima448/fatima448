@@ -1,39 +1,29 @@
-## Hi, I’m Fatima Alfurais 👋
+# Hi, I'm Fatima Alfurais 👋
 
-🎓 Software Engineering Student  
-💻 Web & Backend Developer | AI & ML Enthusiast  
-📍 Based in Istanbul, Türkiye  
+I’m a developer interested in building practical, human-centered software with machine learning and modern web technologies.
 
-I’m passionate about building web applications, working with backend systems,  
-and exploring Artificial Intelligence and Machine Learning through hands-on learning and projects.
+I enjoy turning ideas into projects—from AI experiments and data-driven applications to backend systems and frontend interfaces.
 
----
+## About Me
 
-### 🔧 Technical Skills
-- **Languages:** Java, C  
-- **Web:** HTML, CSS , JavaScript, React 
-- **Backend:** FastAPI  
-- **Databases:** MySQL  
-- **AI / ML:** Fundamentals of Machine Learning, Data Analysis   
-- **Tools:** Git, GitHub, VS Code  
+- 🔭 Building projects in AI, machine learning, and full-stack development
+- 🌱 Learning more about deep learning and modern web development
+- 🧠 Interested in AI applications, machine learning, web development, and software engineering
+- 💻 Working with Python, Java, JavaScript, SQL, HTML, and CSS
+- 🛠️ Learning through hands-on projects and continuous experimentation
 
----
+## Tech Stack
 
-### 📌 Current Focus
-- Backend & API development  
-- Database-driven web applications  
-- Object-Oriented Programming (Java)  
-- Learning Machine Learning concepts and applications  
+**AI / Data**
 
----
+`Python` · `OpenCV` · `NumPy` · `Pandas` · `Scikit-learn` · `Jupyter Notebook`
 
-### 🤝 Open to
-- University & learning projects  
-- Beginner AI / ML projects  
-- Collaboration and open-source contributions  
+**Development**
 
----
+`JavaScript` · `React` · `HTML` · `CSS` · `Java` · `SQL` · `MySQL`
 
-### 📫 Contact
-- Email: alfuraisf@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/fatima-alfurais
+
+## Current Focus
+
+```text
+Machine Learning → AI Applications → Full-Stack Development → Building Useful Software
